@@ -133,7 +133,7 @@
     "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/stylelint-module": "^4.1.0",
     "@nuxtjs/svg": "^0.4.0",
-    "@relmify/jest-fp-ts": "^1.1.1",
+    "@relmify/jest-fp-ts": "^2.0.1",
     "@sentry/browser": "^6.17.9",
     "@testing-library/jest-dom": "^5.16.2",
     "@types/codemirror": "^5.60.5",
